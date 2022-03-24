@@ -9,7 +9,7 @@
       - text/background color
       - rest period
    3. Run `visualSearch.m` with participant ID/number
-      `visualSearch(33)`
+      - `visualSearch(33)`
    4. Use appropriate keys to start or end the experiment and indicate whether a stimulus is present or absent
       - **Z** to begin the experiment
       - **Q** to quit the experiment
