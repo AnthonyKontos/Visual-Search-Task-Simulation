@@ -3,8 +3,8 @@
 ## Instructions
 
    1. Adjust settings for the experiment in `searchSettings.m` 
-      - # of trials
-      - # of stimulus absent trials
+      - amount of trials
+      - amount of stimulus absent trials
       - image and results file paths
       - text/background color
       - rest period
