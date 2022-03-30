@@ -22,9 +22,12 @@ Signal detection theory (SDT) allows us to statistically analyze decision-making
 
 As a result, each decision will have four possible outcomes: 
 
+![Outcome chart](https://i.ibb.co/GcJ7r6B/HIT-OR-MISS.png)
 
+Using the compiled data we can calculate the sensitivity and the specificity for the participant:
 
-Two 
+![Sensitivity and Specificity Calcs](https://i.ibb.co/GHLj9Cd/Specificity-Sensitivity.png)
+
 
 
 
