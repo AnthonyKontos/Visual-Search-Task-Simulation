@@ -24,19 +24,13 @@ As a result, each decision will have four possible outcomes:
 
 ![Outcome chart](https://i.ibb.co/GcJ7r6B/HIT-OR-MISS.png)
 
-Using the compiled data over multiple trials, we can calculate the sensitivity and the specificity for each participant:
+Using the compiled data over multiple trials, we can calculate the **sensitivity** and the **specificity** for each participant:
 
 ![Sensitivity and Specificity Calcs](https://i.ibb.co/GHLj9Cd/Specificity-Sensitivity.png)
 
+We can illustrate the performance of each participant on this task by plotting the **true positive rate** against the **false positive rate** (or **sensitivity** vs. **1-speicificity**). This is called a **Receiver Operating Characteristic** (ROC) curve. We can use the Area Under the Curve (AUC) to determine the probability that a participant will be able to distinguish between stimulus trials and deception trials at random. This value generally falls between 0 and 1 -- 0 representing chance performance and 1 representing perfect performance:
 
-
-
-
-Sensitivity 
-Specificity
-ROC
-AUC
-d-prime
+![ROC and AUC](https://i.ibb.co/Y7K0Yzq/ROC-and-AUC.png)
 
 ## Rationale 
 
