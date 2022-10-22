@@ -20,7 +20,7 @@
 
 Signal detection theory (SDT) allows us to statistically analyze decision-making in conditions of uncertainty. In this experiment, we will be evaluating the decision-maker's ability to differentiate between visual distractors and successfuly identify the target stimulus. Each trial will contain a set of rectangles with different attributes color (**black** or **grey**) and orientation (**horizontal** or **vertical**). The decision-maker will be tasked with identifying the target stimulus which will differ from all other distractors across one attribute. 
 
-As a result, each decision will have four possible outcomes: 
+As a result, each decision will have four possible outcomes. We can visualize the participants performance with a *confusion matrix*: 
 
 ![Outcome chart](https://i.ibb.co/GcJ7r6B/HIT-OR-MISS.png)
 
