@@ -1,5 +1,7 @@
 # Visual-Search-Task-Simulation
 
+![alt text](https://i.imgur.com/5ZMZ8r4.gif)
+
 ## Instructions
 
    1. Adjust settings for the experiment in `searchSettings.m` 
